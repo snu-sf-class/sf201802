@@ -3,17 +3,19 @@
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
 - TA: [Juneyoung Lee](http://sf.snu.ac.kr/juneyoung.lee)
     + Email address: [juneyoung.lee@sf.snu.ac.kr](mailto:juneyoung.lee@sf.snu.ac.kr).
-        * Send emails for administrative matters only. Use the [GitHub repository issue tracker](https://github.com/snu-sf-class/sf201802/issues).
+        * ~Send emails for administrative matters only. Use the [GitHub repository issue tracker](https://github.com/snu-sf-class/sf201802/issues).~ Use email to ask questions.
     + Place: Bldg 302 Rm 312-2
 - Class material: https://softwarefoundations.cis.upenn.edu/
 
 ## Announcements
 
-TBA
+- 2018/09/21: Assignment 1 is uploaded. Regarding submission - [see issue 2](https://github.com/snu-sf-class/sf201802/issues/2).
 
 ## Assignments
 
-TBA
+| Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+|------------	|-----------------------------------------------------------------------------------
+| Oct.4 23:59  	| Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 
 ## Must Read
 
@@ -25,7 +27,7 @@ TBA
 
 ### Questions
 
-- Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/sf201802/issues).
+- Ask questions by email. ~in the [GitHub repository issue tracker](https://github.com/snu-sf-class/sf201802/issues).~
 - If you want to post a piece of source code, please DO NOT upload an image of it. Because it is hard to parse images.
     + Instead, use GitHub Markdown's ["fenced code blocks" feature](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks).
     + Or, you can always use [GitHub Gist](https://gist.github.com/).
@@ -49,5 +51,3 @@ TBA
 #### Honor Code: *DO NOT CHEAT*
 
 - Do not copy others' source code, including other students' and resources around the web. Especially, do not consult with public repositories on software foundations.
-- Assignment score will be adjusted with the exam score. See above.
-
