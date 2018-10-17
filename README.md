@@ -9,7 +9,7 @@
 
 ## Announcements
 
-- 2018/10/17: See 'CoqTheory.md' for the rules for Coq
+- 2018/10/17: See [CoqTheory.md](CoqTheory.md) for the rules for Coq
 - 2018/10/15: We'll have a midterm at 10/28 2:00 pm, 302동 소프트웨어 실습실
 - 2018/10/03: Submission site is open. [See issue 3](https://github.com/snu-sf-class/sf201802/issues/3)
 - 2018/09/21: Assignment 1 is uploaded. Regarding submission - [see issue 2](https://github.com/snu-sf-class/sf201802/issues/3).
