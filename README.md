@@ -9,6 +9,7 @@
 
 ## Announcements
 
+- 2018/10/20: Assignment 2 is uploaded.
 - 2018/10/17: See [CoqTheory.md](CoqTheory.md) for the rules for Coq
 - 2018/10/15: We'll have a midterm at 10/28 2:00 pm, 302동 소프트웨어 실습실
 - 2018/10/03: Submission site is open. [See issue 3](https://github.com/snu-sf-class/sf201802/issues/3)
@@ -19,6 +20,8 @@
 | Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 |------------	|-----------------------------------------------------------------------------------
 | Oct.4 23:59  	| Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+| Nov.3 23:59  	| Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+
 
 ## Must Read
 
