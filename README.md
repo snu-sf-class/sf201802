@@ -9,6 +9,7 @@
 
 ## Announcements
 
+- 2018/10/27: Assignment 2's E10_01_v has been updated. Now 'make eval' should work. Sorry for changes
 - 2018/10/25: Midterm exam range: Logical Foundations, (Basics - IndProp), end time: infinite
 - 2018/10/21: Assignment 2 has been updated (P10.v). Please git pull again.
 - 2018/10/20: Assignment 2 is uploaded.
