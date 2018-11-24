@@ -9,6 +9,7 @@
 
 ## Announcements
 
+- 2018/11/24: Assignment 3 is uploaded. For the last problem, time limit is 100 seconds.
 - 2018/10/30: Server is open again. / lia, nia is forbidden.
 - 2018/10/27: Assignment 2's E10_01_v has been updated. Now 'make eval' should work. Sorry for changes
 - 2018/10/25: Midterm exam range: Logical Foundations, (Basics - IndProp), end time: infinite
@@ -25,7 +26,7 @@
 |------------	|-----------------------------------------------------------------------------------
 | Oct.4 23:59  	| Assignment 1                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | Nov.3 23:59  	| Assignment 2                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
-
+| Dec.8 23:59   | Assignment 3                                              |
 
 ## Must Read
 
