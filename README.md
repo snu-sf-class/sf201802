@@ -9,6 +9,7 @@
 
 ## Announcements
 
+- 2018/11/27: We'll have a final exam at 12/20 6:00 pm, 302동 소프트웨어 실습실
 - 2018/11/24: Assignment 3 is uploaded. For the last problem, time limit is 100 seconds.
 - 2018/10/30: Server is open again. / lia, nia is forbidden.
 - 2018/10/27: Assignment 2's E10_01_v has been updated. Now 'make eval' should work. Sorry for changes
