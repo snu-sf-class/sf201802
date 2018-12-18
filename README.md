@@ -9,6 +9,7 @@
 
 ## Announcements
 
+- 2018/12/18: Fpr the coverage of chapters for the final exam, [see issue 7](https://github.com/snu-sf-class/sf201802/issues/7).
 - 2018/11/27: We'll have a final exam at 12/20 6:00 pm, 302동 소프트웨어 실습실
 - 2018/11/24: Assignment 3 is uploaded. For the last problem, time limit is 100 seconds.
 - 2018/10/30: Server is open again. / lia, nia is forbidden.
